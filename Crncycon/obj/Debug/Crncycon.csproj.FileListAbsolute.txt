@@ -1,0 +1,10 @@
+C:\Users\chnis\source\advance .net\Crncycon\bin\Debug\Crncycon.exe.config
+C:\Users\chnis\source\advance .net\Crncycon\bin\Debug\Crncycon.exe
+C:\Users\chnis\source\advance .net\Crncycon\bin\Debug\Crncycon.pdb
+C:\Users\chnis\source\advance .net\Crncycon\obj\Debug\Crncycon.csprojAssemblyReference.cache
+C:\Users\chnis\source\advance .net\Crncycon\obj\Debug\Crncycon.Form1.resources
+C:\Users\chnis\source\advance .net\Crncycon\obj\Debug\Crncycon.Properties.Resources.resources
+C:\Users\chnis\source\advance .net\Crncycon\obj\Debug\Crncycon.csproj.GenerateResource.cache
+C:\Users\chnis\source\advance .net\Crncycon\obj\Debug\Crncycon.csproj.CoreCompileInputs.cache
+C:\Users\chnis\source\advance .net\Crncycon\obj\Debug\Crncycon.exe
+C:\Users\chnis\source\advance .net\Crncycon\obj\Debug\Crncycon.pdb
