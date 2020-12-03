@@ -1,0 +1,2 @@
+C:\Users\chnis\source\advance .net\oops\obj\Debug\oops.csprojAssemblyReference.cache
+C:\Users\chnis\source\advance .net\oops\obj\Debug\oops.csproj.CoreCompileInputs.cache

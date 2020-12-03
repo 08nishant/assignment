@@ -1,0 +1,10 @@
+C:\Users\chnis\source\advance .net\scientificcal\bin\Debug\scientificcal.exe.config
+C:\Users\chnis\source\advance .net\scientificcal\bin\Debug\scientificcal.exe
+C:\Users\chnis\source\advance .net\scientificcal\bin\Debug\scientificcal.pdb
+C:\Users\chnis\source\advance .net\scientificcal\obj\Debug\scientificcal.csprojAssemblyReference.cache
+C:\Users\chnis\source\advance .net\scientificcal\obj\Debug\scientificcal.Form1.resources
+C:\Users\chnis\source\advance .net\scientificcal\obj\Debug\scientificcal.Properties.Resources.resources
+C:\Users\chnis\source\advance .net\scientificcal\obj\Debug\scientificcal.csproj.GenerateResource.cache
+C:\Users\chnis\source\advance .net\scientificcal\obj\Debug\scientificcal.csproj.CoreCompileInputs.cache
+C:\Users\chnis\source\advance .net\scientificcal\obj\Debug\scientificcal.exe
+C:\Users\chnis\source\advance .net\scientificcal\obj\Debug\scientificcal.pdb

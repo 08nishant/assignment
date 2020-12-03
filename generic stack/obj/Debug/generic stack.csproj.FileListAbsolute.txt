@@ -1,0 +1,7 @@
+C:\Users\chnis\source\advance .net\generic stack\bin\Debug\generic stack.exe.config
+C:\Users\chnis\source\advance .net\generic stack\bin\Debug\generic stack.exe
+C:\Users\chnis\source\advance .net\generic stack\bin\Debug\generic stack.pdb
+C:\Users\chnis\source\advance .net\generic stack\obj\Debug\generic stack.csprojAssemblyReference.cache
+C:\Users\chnis\source\advance .net\generic stack\obj\Debug\generic stack.csproj.CoreCompileInputs.cache
+C:\Users\chnis\source\advance .net\generic stack\obj\Debug\generic stack.exe
+C:\Users\chnis\source\advance .net\generic stack\obj\Debug\generic stack.pdb

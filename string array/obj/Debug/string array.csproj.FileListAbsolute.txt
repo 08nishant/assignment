@@ -1,0 +1,7 @@
+C:\Users\chnis\source\advance .net\string array\bin\Debug\string array.exe.config
+C:\Users\chnis\source\advance .net\string array\bin\Debug\string array.exe
+C:\Users\chnis\source\advance .net\string array\bin\Debug\string array.pdb
+C:\Users\chnis\source\advance .net\string array\obj\Debug\string array.csprojAssemblyReference.cache
+C:\Users\chnis\source\advance .net\string array\obj\Debug\string array.csproj.CoreCompileInputs.cache
+C:\Users\chnis\source\advance .net\string array\obj\Debug\string array.exe
+C:\Users\chnis\source\advance .net\string array\obj\Debug\string array.pdb
